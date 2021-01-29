@@ -9,14 +9,14 @@ https://play.google.com/store/apps/details?id=com.instant.personal.loan.loanbaza
 In Loan bazaar, you can get loans easily even from your home within a few clicks through your smartphone.
 
 Below are the some best financial services we are providing with the Loan bazaar App:-
-~ Online instant personal loans comparison
-~ Multiple Instant Loan providing Partners
-~ Personal loans apply
+- Online instant personal loans comparison
+- Multiple Instant Loan providing Partners
+- Personal loans apply
 
 Documents Required to Apply:-
-~ Must be an Indian Citizen.
-~ Working Phone number.
-~ Age: 18+
+- Must be an Indian Citizen.
+- Working Phone number.
+- Age: 18+
 
 How does it work?
 1. Install the Loan bazaar App from the Play Store.
