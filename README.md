@@ -31,11 +31,11 @@ With Loan Pro App, online instant personal loans are starting from a minimum of 
 
 ## Dev Overview
 # Folder Structure
-[] constants/
-[] firebase/
-[] models/
-[] screens/
-[] utils/
-[] widgets/
+- constants/
+- firebase/
+- models/
+- screens/
+- utils/
+- widgets/
 
 
